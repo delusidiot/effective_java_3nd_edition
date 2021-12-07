@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.Item_1;
 
 import java.math.BigInteger;
 import java.util.Random;
