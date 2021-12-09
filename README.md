@@ -10,7 +10,7 @@
 
 [Item 2: Consider a builder when faced with many constructor parameters](./content/Chapter2/Item_2.md)
 
-Item 3: Enforce the singleton property with a private constructor or an enum type
+[Item 3: Enforce the singleton property with a private constructor or an enum type](./content/Chapter2/Item_3.md)
 
 Item 4: Enforce noninstantiability with a private constructor
 
